@@ -1,0 +1,17 @@
+/target
+/target-eclipse
+/logs
+.settings
+.classpath
+.project
+.groovy
+.DS_Store
+/web-app/images/igf
+*.swp
+*.iml
+stacktrace.log
+.idea
+*.log*
+/images
+.groovy
+/src
